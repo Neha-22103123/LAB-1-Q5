@@ -1,0 +1,36 @@
+Calculator : https://gist.github.com/6031298.git
+Documentation:
+1.add():
+Purpose: Performs addition of two integers.
+Inputs: Takes two integers from user input.
+Output: Prints the sum of the two integers.
+
+2.sub():
+Purpose: Performs subtraction of two integers.
+Inputs: Takes two integers from user input.
+Output: Prints the result of the subtraction.
+
+3.mul():
+Purpose: Performs multiplication of two integers.
+Inputs: Takes two integers from user input.
+Output: Prints the result of the multiplication.
+
+4.div():
+Purpose: Performs integer division of two integers.
+Inputs: Takes two integers from user input.
+Output: Prints the result of the division (integer quotient).
+
+5.sqr():
+Purpose: Computes the power of a base number to an exponent.
+Inputs: Takes base and exponent integers from user input.
+Output: Prints the result of base^exponent.
+
+6.prime_factorization():
+Purpose: Computes the prime factorization of a given number.
+Inputs: Takes an integer from user input.
+Output: Prints the prime factors of the number.
+
+7.factorial():
+Purpose: Computes the factorial of a given number.
+Inputs: Takes an integer from user input.
+Output: Prints the factorial of the number.
